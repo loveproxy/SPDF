@@ -1,4 +1,4 @@
-# CT_OOD
-Code for "The Occam's Razor in Out-Of-Distribution Generalization: If No Need, No More Component"
+# SPDF
+Code for "Contextual Kernels: Preserving Generality while Enhancing Adaptability in Pre-trained Vision-Language Models"
 
 To be published given the paper is accepted.
